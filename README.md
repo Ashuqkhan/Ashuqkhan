@@ -1,4 +1,4 @@
-<img src="https://bayanbox.ir/view/9118449922334647867/Banner.jpeg" alt="banner" />
+<img src="https://bayanbox.ir/view/9118449922334647867/Banner.png" alt="banner" />
 <h1 align="center">Hi 👋, I'm Ashuqullah Noori</h1>
 <h3 align="center">Front end developer </h3>
 
